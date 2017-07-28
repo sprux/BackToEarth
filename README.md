@@ -1,5 +1,8 @@
-# Back to Earth
+# Back to Earth Tokens
+## StarCredits (SRC) & GoldenTickets (GTKT)
 
-Smart contract code and related material for ERC20 tokens _StarCredits_ (STRC) and _Golden Tickets_ (GTKT).
+ERC20 token Smart Contracts for [Back to Earth](https://backto.earth/).
 
-https://backto.earth
+Audit by BlockchainLabsNZ available [here](https://github.com/BlockchainLabsNZ/Back-to-Earth-audit/blob/master/audit-report.md).
+
+Analysis and findings regarding failings of previous token release available at https://b2e.tips/go/SRCRPT.
